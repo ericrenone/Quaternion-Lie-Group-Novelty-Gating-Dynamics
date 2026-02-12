@@ -65,12 +65,12 @@ This framework is suitable for **robotics, embedded systems, sensor fusion, and 
 
 ## Canonical References
 
-* Shannon, C. E. (1948). *A Mathematical Theory of Communication.* Bell System Technical Journal, 27(3,4), 379–423, 623–656.
+* Shannon, C. E. (1948). *A Mathematical Theory of Communication.* Bell System Technical Journal
 * Bar-Shalom, Y., Li, X. R., & Kirubarajan, T. (2001). *Estimation with Applications to Tracking and Navigation.* Wiley.
 * Diebel, J. (2006). *Representing Attitude: Euler Angles, Unit Quaternions, and Rotation Vectors.* Stanford University Technical Report.
 * Tishby, N., Pereira, F. C., & Bialek, W. (1999). *The Information Bottleneck Method.* Proceedings of the 37th Annual Allerton Conference on Communication, Control and Computing.
 * Walther, A., et al. (2013). *CORDIC-Based FPGA Implementation of Trigonometric Functions.* IEEE Transactions on VLSI.
-* Chirikjian, G. S., & Kyatkin, A. B. (2000). *Engineering Applications of Noncommutative Harmonic Analysis.* CRC Press.
+* Chirikjian, G. S., & Kyatkin, A. B. (2000). *Engineering Applications of Noncommutative Harmonic Analysis.*
 
 ---
 
