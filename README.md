@@ -1,7 +1,5 @@
 # Quaternion Lie Group Novelty Gating Dynamics
 
-![Trajectory Example](lie_group_summary.png)
-
 ---
 
 ## Overview
