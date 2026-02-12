@@ -63,7 +63,7 @@ This framework is suitable for **robotics, embedded systems, sensor fusion, and 
 
 ---
 
-## Canonical References
+## References
 
 * Shannon, C. E. (1948). *A Mathematical Theory of Communication.* Bell System Technical Journal
 * Bar-Shalom, Y., Li, X. R., & Kirubarajan, T. (2001). *Estimation with Applications to Tracking and Navigation.* Wiley.
