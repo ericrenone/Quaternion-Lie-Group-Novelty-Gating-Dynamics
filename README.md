@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository implements a **Lie group adaptive filter** operating on **quaternions (S³)** with **fixed-point Q16.16 arithmetic**, designed to track evolving rotations while detecting **novelty events**. The system combines classical **adaptive filtering**, **Lie group geometry**, and **CORDIC-based fixed-point trigonometry** in a fully visualized, interactive Python framework.
+This repository implements a **Lie group adaptive filter** operating on **quaternions (S³)** with **fixed-point Q16.16 arithmetic**, designed to track evolving rotations while detecting **novelty events**. The system combines classical **adaptive filtering**, **Lie group geometry**, and **CORDIC-based fixed-point trigonometry** in a fully visualized.
 
 Key features:
 
