@@ -1,5 +1,9 @@
 # Quaternion Lie Group Novelty Gating Dynamics
 
+![Trajectory Example](lie_group_summary.png)
+
+---
+
 ## Overview
 
 This repository implements a **Lie group adaptive filter** operating on **quaternions (S³)** with **fixed-point Q16.16 arithmetic**, designed to track evolving rotations while detecting **novelty events**. The system combines classical **adaptive filtering**, **Lie group geometry**, and **CORDIC-based fixed-point trigonometry** in a fully visualized, interactive Python framework.
@@ -45,6 +49,17 @@ This framework is suitable for **robotics, embedded systems, sensor fusion, and 
    * Real-time plotting of angular distance, adaptive gain, and rotation axes.
    * PCA 3D visualization of trajectory on S³.
    * Novelty detection bar chart and axis evolution over time.
+
+---
+
+## Key Takeaways
+
+* **Hierarchical quaternion dynamics naturally discover novelty**: adaptive gain modulation and angular thresholds enable real-time detection of significant rotational changes.
+* **Fixed-point arithmetic + CORDIC** enables **hardware-efficient implementations** suitable for embedded systems.
+* **S³ geometry is critical**: operating on the quaternion manifold preserves rotation structure and avoids singularities associated with Euler angles.
+* **Adaptive gain decay** ensures convergence without overshoot, balancing stability and responsiveness.
+* **PCA visualization** provides interpretable insight into high-dimensional quaternion trajectories.
+* The framework demonstrates the intersection of **information theory, control systems, and geometric computation** in practical adaptive filtering.
 
 ---
 
